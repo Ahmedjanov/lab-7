@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1588927530 source:d:\À‡·-7\main.cpp
+	<graphics.h>
+	<conio.h>
+	<stdio.h>
+
+1266065414 d:\a.sh.v\krsu\Œ¿œ\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
